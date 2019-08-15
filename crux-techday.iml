@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module cursive.leiningen.project.LeiningenProjectsManager.displayName="com.avisi-apps/crux-techday:1.0.0" cursive.leiningen.project.LeiningenProjectsManager.isLeinModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dev-resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Leiningen: ch.qos.logback/logback-classic:1.2.3" level="project" />
+    <orderEntry type="library" name="Leiningen: ch.qos.logback/logback-core:1.2.3" level="project" />
+    <orderEntry type="library" name="Leiningen: clojure-complete:0.2.5" level="project" />
+    <orderEntry type="library" name="Leiningen: com.github.jnr/jffi:1.2.16:native" level="project" />
+    <orderEntry type="library" name="Leiningen: com.github.jnr/jffi:1.2.17" level="project" />
+    <orderEntry type="library" name="Leiningen: com.github.jnr/jnr-a64asm:1.0.0" level="project" />
+    <orderEntry type="library" name="Leiningen: com.github.jnr/jnr-ffi:2.1.9" level="project" />
+    <orderEntry type="library" name="Leiningen: com.github.jnr/jnr-x86asm:1.0.2" level="project" />
+    <orderEntry type="library" name="Leiningen: com.stuartsierra/dependency:0.2.0" level="project" />
+    <orderEntry type="library" name="Leiningen: com.taoensso/encore:2.114.0" level="project" />
+    <orderEntry type="library" name="Leiningen: com.taoensso/nippy:2.14.0" level="project" />
+    <orderEntry type="library" name="Leiningen: com.taoensso/truss:1.5.0" level="project" />
+    <orderEntry type="library" name="Leiningen: juxt/crux-core:19.07-1.3.0-alpha" level="project" />
+    <orderEntry type="library" name="Leiningen: juxt/crux-rocksdb:19.07-1.3.0-alpha" level="project" />
+    <orderEntry type="library" name="Leiningen: net.jpountz.lz4/lz4:1.3" level="project" />
+    <orderEntry type="library" name="Leiningen: nrepl:0.6.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.agrona/agrona:1.0.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/clojure:1.10.1" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/core.specs.alpha:0.2.44" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/spec.alpha:0.2.176" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/tools.logging:0.4.1" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/tools.reader:1.3.2" level="project" />
+    <orderEntry type="library" name="Leiningen: org.iq80.snappy/snappy:0.4" level="project" />
+    <orderEntry type="library" name="Leiningen: org.ow2.asm/asm-analysis:5.0.3" level="project" />
+    <orderEntry type="library" name="Leiningen: org.ow2.asm/asm-commons:5.0.3" level="project" />
+    <orderEntry type="library" name="Leiningen: org.ow2.asm/asm-tree:5.0.3" level="project" />
+    <orderEntry type="library" name="Leiningen: org.ow2.asm/asm-util:5.0.3" level="project" />
+    <orderEntry type="library" name="Leiningen: org.ow2.asm/asm:5.0.3" level="project" />
+    <orderEntry type="library" name="Leiningen: org.rocksdb/rocksdbjni:6.0.1" level="project" />
+    <orderEntry type="library" name="Leiningen: org.slf4j/slf4j-api:1.7.25" level="project" />
+    <orderEntry type="library" name="Leiningen: org.tukaani/xz:1.6" level="project" />
+  </component>
+</module>
