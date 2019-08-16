@@ -13,7 +13,7 @@ Feel free to contact Michel, Timo or Fatih if you have any questions during the 
 
 ## Lets get started
 
-1. Clone this repo `git clone git@github.com:avisi-apps/crux-techday.git`
+1. Clone this repo `git clone git@github.com:avisi-apps/crux-techday.git` or using https `git clone https://github.com/avisi-apps/crux-techday.git`
 2. Import project in IntelliJ.
 3. Select `Import project from external model` and select `Leiningen` and click `Next`.
 4. In the `Root directory` screen the defaults should be oke, so click `Next`.
