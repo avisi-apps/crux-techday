@@ -1,5 +1,4 @@
-.idea/*
-!/.idea/runConfigurations
+.idea
 /target/
 /.cpcache
 crux-techday.iml
