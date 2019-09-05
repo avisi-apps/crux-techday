@@ -28,6 +28,31 @@
   ;; 5. Execute this form and you will have a crux-node.
 
   ;; 6. Experiment! You can look at `crux.clj` which Mitchel used during his demo in his presentation.
-  ;;    Take a look at the documentation https://juxt.pro/crux/docs/get_started.html#_transacting
-  ;;    And build something awesome!
+
+
+
+  ;; Links
+
+  ;; Documentation
+  ;; https://juxt.pro/crux/docs/index.html
+
+  ;; EDN reference
+  ;; see the file `example.edn` or https://juxt.pro/crux/docs/tutorials.html#_essential_edn
+
+  ;; Our ideas for the hands-on
+
+    ;; Crux tutorial (Good place to start)
+    ;; https://juxt.pro/crux/docs/tutorials.html#_space_adventure
+    ;; or
+    ;; https://juxt.pro/crux/docs/tutorials.html#_a_bitemporal_tale
+
+    ;; Model your domain
+
+    ;; Java API (Good luck)
+    ;; https://juxt.pro/crux/docs/api.html#_javadocs
+
+  ;; Pro tip: If you want to know which key bindings are available to work with your REPL
+  ;;          right click anywhere in this file and see all options under REPL
+
+  ;; IdeaVim pro tip: https://github.com/fatihict/.ideavimrc/blob/master/.ideavimrc
 )
