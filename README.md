@@ -4,7 +4,7 @@ We hope you enjoyed the presentation.
 
 During the hands-on we'll get you started with Crux.
 
-Feel free to contact Michel, Timo or Fatih if you have any questions during the hands-on.
+Feel free to contact Michel or Fatih if you have any questions during the hands-on.
 
 ## Prerequisites
 - Java 8 or higher
@@ -26,3 +26,7 @@ Feel free to contact Michel, Timo or Fatih if you have any questions during the 
 
 # Troubleshooting
 If you get errors that symbols are not resolving try to invalidate caches and restart IntelliJ by: `File -> Invalidate Caches / Restart -> Invalidate and Restart`
+
+If you can't clone using ssh, use https to clone this repo.
+
+We also included bin/lein script in case you want to run leiningen in your terminal
