@@ -25,13 +25,12 @@
   (defonce node (api/start-standalone-node {:db-dir "target/db"
                                             :kv-backend "crux.kv.rocksdb.RocksKv"
                                             :event-log-dir "target/event-log"}))
-  ;; 5. Execute this form and you will have a crux-node.
+  ;; 5. Execute this form and you will have a crux node.
 
-  ;; 6. Experiment! You can look at `crux.clj` which Mitchel used during his demo in his presentation.
+  ;; 6. Experiment! You can use this crux node to query to your heart's desire.
 
-
-
-  ;; Links
+  ;; Where to go from here?
+  ;; You can take a look at `crux.clj` which Mitchel used during his demo in his presentation.
 
   ;; Documentation
   ;; https://juxt.pro/crux/docs/index.html
