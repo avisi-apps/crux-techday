@@ -4,7 +4,7 @@ We hope you enjoyed the presentation.
 
 During the hands-on we'll get you started with Crux.
 
-Feel free to contact Michel or Fatih if you have any questions during the hands-on.
+Feel free to contact Mitchel or Fatih if you have any questions during the hands-on.
 
 ## Prerequisites
 - Java 8 or higher
